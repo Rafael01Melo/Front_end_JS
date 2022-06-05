@@ -1,0 +1,15 @@
+#dv1,.teste{
+    width: 50%;
+    height: 100px;
+    background-color: whitesmoke;
+    margin: 5px auto;
+}
+#dv1{
+    border:2px solid blue;
+}
+.teste{
+    border:2px solid red; 
+}
+h2{
+    color: blue
+}
